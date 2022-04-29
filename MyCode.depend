@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1650271756 source:f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\main.cpp
+	<vector>
+	<string>
+	<ctime>
+	<iostream>
+	<conio.h>
+	"SystemData.h"
+	"StudentFunction.h"
+	"StaffFunction.h"
+	"Console.h"
+	"User.h"
+	"Graphic.h"
+	"AcademicYear.h"
+
+1650094599 f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\systemdata.h
+	<iostream>
+	<string>
+
+1650094599 f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\studentfunction.h
+	<vector>
+	<string>
+	<ctime>
+	<iostream>
+	<fstream>
+	<conio.h>
+	<sstream>
+	"CourseFunction.h"
+	"SystemData.h"
+	"StaffFunction.h"
+	"Console.h"
+	"User.h"
+
+1650094599 source:f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\studentfunction.cpp
+	"StudentFunction.h"
+
+1648574113 source:f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\hungfunction.cpp
+	"StudentFunction.h"
+
+1648611277 f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\systemfunction.h
+	<vector>
+	<string>
+	<ctime>
+	<iostream>
+	<fstream>
+	<sstream>
+	"SystemData.h"
+	"StudentFunction.h"
+	"User.h"
+
+1648611241 source:f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\systemfunction.cpp
+	"SystemFunction.h"
+
+1650271974 f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\stafffunction.h
+	<vector>
+	<string>
+	<ctime>
+	<iostream>
+	<fstream>
+	<conio.h>
+	"SystemData.h"
+	"StudentFunction.h"
+	"CourseFunction.h"
+	"Console.h"
+
+1650299200 source:f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\stafffunction.cpp
+	"StaffFunction.h"
+	"StudentFunction.h"
+
+1649222282 source:f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\console.cpp
+	<vector>
+	<string>
+	<ctime>
+	<iostream>
+	<fstream>
+	<conio.h>
+	<sstream>
+	"Console.h"
+
+1649217973 f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\console.h
+	<windows.h>
+
+1650094599 f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\user.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	"SystemData.h"
+	"Console.h"
+	"Graphic.h"
+
+1649771157 source:f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\user.cpp
+	"User.h"
+
+1650274614 f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\graphic.h
+	<iostream>
+	"Console.h"
+
+1650274264 source:f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\graphic.cpp
+	"Graphic.h"
+
+1650200957 f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\coursefunction.h
+	<iostream>
+	<string>
+	"SystemData.h"
+	"Console.h"
+	"StudentFunction.h"
+
+1650201112 source:f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\coursefunction.cpp
+	"CourseFunction.h"
+
+1650094599 f:\tailieuhcmus\computer science 2\courseregistrationsystemproject\mycode\academicyear.h
+	"SystemData.h"
+	<iostream>
+	<string>
+

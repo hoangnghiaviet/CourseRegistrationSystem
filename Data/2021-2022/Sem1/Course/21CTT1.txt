@@ -1,0 +1,5 @@
+CS162,Introdution to Computer Science II,Dinh Ba Tien,4,50,0,3,1,7,1,
+MTH252,Calculus II,Nguyen Huu Anh,4,50,0,3,2,5,2,
+PH212,General Physics II,Nguyen Huu Nha,4,50,0,4,3,5,3,
+BAA00004,Introduction to Laws,Nguyen Phuong Hong,3,100,0,3,3,3,4,
+BAA00102,Marxist-Leninist Political Economics,Ngo Tuan Phuong,2,100,0,4,1,4,2,
